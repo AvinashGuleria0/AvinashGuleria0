@@ -9,6 +9,12 @@
 
 - ⚡ Fun fact **Graham’s number is so huge that the universe can’t fit all its digits—even if we wrote one digit per atom! Yet, it’s still finite and comes from a math puzzle in Ramsey theory.**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
