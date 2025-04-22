@@ -11,6 +11,7 @@
 - 📫 How to reach me **avinashguleria1009@gmail.com**
 
 - ⚡ Fun fact **Graham’s number is so huge that the universe can’t fit all its digits—even if we wrote one digit per atom! Yet, it’s still finite and comes from a math puzzle in Ramsey theory.**
+<p align='center'><img style="border-radius: 10px;" src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif'></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
